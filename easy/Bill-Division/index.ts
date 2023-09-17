@@ -22,7 +22,7 @@ function bonAppetit(bill: number[], k: number, b: number): void {
         console.log("Bon Appetit")
     }
     else{
-        console.log(b- share);
+        console.log( b- share);
     }
 }
 
