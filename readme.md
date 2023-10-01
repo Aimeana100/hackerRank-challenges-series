@@ -39,8 +39,8 @@ Each challenge directory includes the problem statement, code solution, and any 
 
 ### KARINGANIR Anathole
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/karinganire-anathole-610979185/)
-- GitHub: [Your GitHub Profile](https://github.com/Aimeana100/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/karinganire-anathole-610979185/)
+- GitHub: [My GitHub Profile](https://github.com/Aimeana100/)
 - Email: <aimeanathole@gmail.com>
 
 Feel free to connect with me on LinkedIn or GitHub for questions, discussions, or collaborations!
